@@ -1590,11 +1590,11 @@ div.owl-controls, .owl-controls div {
 
 ----------------------------------------------------------------------------- */
 .news-bg-1 {
-  background-image: url(../img/latest-news/news-bg-1.jpg);
+  background-image: url(../img/latest-news/TMU_school.jpg);
 }
 
 .news-bg-2 {
-  background-image: url(../img/latest-news/news-bg-2.jpg);
+  background-image: url(../img/latest-news/school_NTU.PNG);
 }
 
 .news-bg-3 {
@@ -1667,10 +1667,21 @@ p.excerpt {
   margin-bottom: 30px;
 }
 
-.single-artcile-bg {
-  background-image: url(../img/latest-news/news-bg-3.jpg);
+/* 從這新增各大學校圖片 */
+
+/* TMU */
+.single-artcile-bg-1 {
+  background-image: url(../img/latest-news/TMU_school.jpg);
   height: 450px;
 }
+
+/* NTU */
+.single-artcile-bg-2 {
+  background-image: url(../img/latest-news/school_NTU.PNG);
+  height: 400px;
+}
+
+
 
 .pagination-wrap {
   margin-top: 40px;
