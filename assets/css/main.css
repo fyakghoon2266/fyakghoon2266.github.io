@@ -1681,7 +1681,29 @@ p.excerpt {
   height: 400px;
 }
 
+/* NCKU */
+.single-artcile-bg-3 {
+  background-image: url(../img/latest-news/NCKU_school.jpeg);
+  height: 400px;
+}
 
+/* NDMC */
+.single-artcile-bg-4 {
+  background-image: url(../img/latest-news/NDMC_school.jpeg);
+  height: 400px;
+}
+
+/* UNESWA */
+.single-artcile-bg-5 {
+  background-image: url(../img/latest-news/UNESWA_school.jpeg);
+  height: 400px;
+}
+
+/* OAU */
+.single-artcile-bg-6 {
+  background-image: url(../img/latest-news/OAU_school.jpegs);
+  height: 400px;
+}
 
 .pagination-wrap {
   margin-top: 40px;
