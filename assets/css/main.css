@@ -1672,37 +1672,37 @@ p.excerpt {
 /* TMU */
 .single-artcile-bg-1 {
   background-image: url(../img/latest-news/TMU_school.jpg);
-  height: 450px;
+  height: 550px;
 }
 
 /* NTU */
 .single-artcile-bg-2 {
   background-image: url(../img/latest-news/school_NTU.PNG);
-  height: 400px;
+  height: 550px;
 }
 
 /* NCKU */
 .single-artcile-bg-3 {
-  background-image: url(../img/latest-news/NCKU_school.jpeg);
-  height: 400px;
+  background-image: url(../img/latest-news/NCKU_school.jpg);
+  height: 550px;
 }
 
 /* NDMC */
 .single-artcile-bg-4 {
-  background-image: url(../img/latest-news/NDMC_school.jpeg);
-  height: 400px;
+  background-image: url(../img/latest-news/NDMC_school.jpg);
+  height: 550px;
 }
 
 /* UNESWA */
 .single-artcile-bg-5 {
   background-image: url(../img/latest-news/UNESWA_school.jpeg);
-  height: 400px;
+  height: 550px;
 }
 
 /* OAU */
 .single-artcile-bg-6 {
   background-image: url(../img/latest-news/OAU_school.jpegs);
-  height: 400px;
+  height: 550px;
 }
 
 .pagination-wrap {
@@ -2189,6 +2189,30 @@ a.video-play-btn {
   position: relative;
   margin: 150px 0;
 }
+
+
+/* -----------------------------------------------------------------------------
+
+# 合作研究案的示意圖
+
+----------------------------------------------------------------------------- */
+
+.feature-NEU:after {
+  background-image: url(../img/feature-bg.jpg);
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 40%;
+  height: 100%;
+  content: "";
+  background-size: cover;
+  background-position: center;
+  border-top-left-radius: 5px;
+  -webkit-box-shadow: 0 0 20px #cacaca;
+  box-shadow: 0 0 20px #cacaca;
+  border-bottom-left-radius: 5px;
+}
+
 
 .feature-bg:after {
   background-image: url(../img/feature-bg.jpg);
