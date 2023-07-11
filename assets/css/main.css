@@ -2812,3 +2812,10 @@ table.order-details tbody td {
   vertical-align: middle;
   width: 100%;
 }
+
+
+
+.whiteTextOverride
+{
+ color: white !important;
+}
